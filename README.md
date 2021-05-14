@@ -1,5 +1,5 @@
 # Document-cleaning
-### A document cleaning app using Variational autoencoder(VAE)
+### cleaning of a stained document using Variational autoencoder(VAE)
 
 ### In the future:
 #### write a pytorch version
